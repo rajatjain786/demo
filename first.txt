@@ -1,1 +1,2 @@
 This is my git first file.
+This is my updated text.
